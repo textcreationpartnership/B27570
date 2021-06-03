@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The office of land-credit, encouragement to mony'd-men.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27570</idno><idno type="EEBO-CITATION">99886053</idno>
+  <idno type="VID">186427</idno>
+  <idno type="EEBO-PROQUEST">2240896638</idno>
+  
+            <idno type="STC">Wing O147</idno>
+            <idno type="STC">Interim Tract Supplement Guide 712.m.1[58]</idno>
+            <idno type="STC">ESTC R225336</idno>
+            <idno type="PROQUEST">ocm99886053</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886053e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186427)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:3[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The office of land-credit, encouragement to mony'd-men.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance --  Early works to 1800.</term>
+               <term type="topical_term">Banks and banking --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186427:1"/>
+            <head>The <hi>Office</hi> of <hi>Land-Credit,</hi> Encouragement to Mony'd-Men.</head>
+            <p>THat Mony'd Men may also largely partake of the Benefits of this General Undertaking of the Office of Land-Credit: The several following Methods are Proposed to all, that are Desirous to be Concern'd therein, and whose Circumstances may suit with the same, whereby they may, either very Securely, or very Advantagiously, if not both, Improve their Stocks, without Trouble, Skill, or Charge: As,</p>
+            <p n="1">I. To have 35 <hi>l. per Annum,</hi> for four Years, out of the Profits of the Office, for every 100 <hi>l.</hi> paid into the said Office; which 100 <hi>l.</hi> with Legal Interest, shall be Secured by Land to be returned, in Case the Office fails to pay the said Annuity, which advantage almost equals 14 <hi>per Cent per Annum.</hi>
+            </p>
+            <p n="2">II. To have 20 <hi>l.</hi> immediately added to every 80 <hi>l.</hi> put into the Joint Stock of Trade, and to enjoy the Profits thereof till drawn out, which they may do in five Years, if they Please; that is, to have a Share of 100 <hi>l.</hi> in the said Stock, and to enjoy the Profits of so much Annually, till they shall dispose of the said Share: And so in Propor<g ref="char:EOLhyphen"/>tion for more or less.</p>
+            <p n="3">III. To have a present Life, at six Years Purchase, till <hi>Midsummer</hi> next, and thence to <hi>Christmas,</hi> at seven Years: And after that at one Year beneath the Market Price, whether ten or eleven Years, more or less: The Annuities to be paid out of the Profits of the Office, but the Principal and Legal Interest is to be Secured by particular Estates in Lands or Houses, in Case the Office fails, to pay the said Annuity.</p>
+            <p n="4">IV. To have for second Lives 30 <hi>l. per Annum</hi> for every 100 <hi>l.</hi> paid into the said Office, during the Health and Strength of the first Life; The Annuity and the Principal with the Legal Interest, to be Secured, as in the last Article.</p>
+            <p>The Advantages of the former Articles are obvious; but 'tis neces<g ref="char:EOLhyphen"/>sary to Instance some that attends this last Article; As,</p>
+            <p n="1">1st, Here is a certain, plentiful and easie Provision for Wives and Children.</p>
+            <p n="2">
+               <hi>2dly,</hi> Larger Portions may be expected by Men of Professions and Trades, when they Marry, because of the said Provision.</p>
+            <p n="3">
+               <hi>3dly,</hi> This Provision may, with greater convenience, be made with<g ref="char:EOLhyphen"/>out clogging Estates, by Marriage Settlements.</p>
+            <p>Note, That whatever Sums shall be paid, upon any of these Arti<g ref="char:EOLhyphen"/>cles, 99 <hi>l.</hi> in the said Office Bills, shall be accepted for 100 <hi>l.</hi> in Gold or Silver.</p>
+            <p>
+               <hi>Whoever hath a desire to Treat upon any of the</hi> Articles <hi>above, may please to Repair to Mr.</hi> Sam. White, <hi>Agent to the Office of Land-Credit,</hi> N. 6. <hi>in the New Buildings in</hi> Lincolns-Inn, <hi>every Evening, except</hi> Sundays, <hi>from</hi> 6 <hi>to</hi> 8.</p>
+            <pb facs="tcp:186427:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
